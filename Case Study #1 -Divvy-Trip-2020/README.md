@@ -37,7 +37,7 @@ Rider Data: Details about the different types of riders (e.g., casual vs. member
   <li><h5> Station Name?</h5></li>
   
 <h6>Answer:</h6>
-<img width="200" alt="Coding" src="divvy-trip-2020.png">
+<img width="1000" alt="Coding" src="divvy-trip-2020.png">
 
 <ul>
   <li>The mean<code> ride_length:</code>by Excel Function: <code>=AVERAGE() </code> with the column containing your <code>ride_length data</code>.</li>
@@ -54,7 +54,7 @@ Rider Data: Details about the different types of riders (e.g., casual vs. member
   <li><h5> Station Name?</h5></li>
   
 <h6>Answer:</h6>
-<img width="200" alt="Coding" src="Pivit.png">
+<img width="1000" alt="Coding" src="Pivit.png">
 
 <ul>
   <li>The average <code> ride_length</code> for members and casual riders:
@@ -122,3 +122,4 @@ Now we easly calcuate the result</li>
   <li>
     <h3>Operational Planning</h3>
     <p>Use the insights on station usage to improve bike redistribution. For example, ensure that popular recreational stations are well-stocked with bikes on weekend mornings to meet the high demand from casual riders.</p>
+
