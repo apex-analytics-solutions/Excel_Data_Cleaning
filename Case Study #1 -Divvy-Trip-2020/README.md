@@ -122,32 +122,3 @@ Now we easly calcuate the result</li>
   <li>
     <h3>Operational Planning</h3>
     <p>Use the insights on station usage to improve bike redistribution. For example, ensure that popular recreational stations are well-stocked with bikes on weekend mornings to meet the high demand from casual riders.</p>
-=======
-# Excel_Data_Cleaning
-<p>🧹 Excel Data Cleaning Repository
-This repository serves as a centralized collection of resources, templates, and best practices for cleaning data using Microsoft Excel. Our goal is to streamline the data preparation process, ensuring that raw data is transformed into a clean, structured, and analysis-ready format. This repository is ideal for data analysts, researchers, and anyone who frequently works with data in Excel.<br>
-
-Key Features:<br>
-Templates: Pre-built Excel templates with formulas and conditional formatting to identify common data issues.<br>
-
-Formulas & Techniques: A comprehensive guide to powerful Excel functions and techniques for data cleaning.<br>
-
-Case Studies: Real-world examples demonstrating how to tackle specific data cleaning challenges.<br>
-
-Best Practices: A set of guidelines for maintaining data integrity and efficiency.<br></p>
-
-<p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
-  <a href="www.linkedin.com/in/anees-ur-rehman-7a2245378">
-  <img src=" Linkedln | Anees Ur Rehman" alt=""> Linkedln | Anees Ur Rehman</a><br>
-
-  Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
-  <p>Tools Used🛠️ : Excel SpreadSheet</p>
-
-  <h2>CONTENTS📝</h2>
-<ul>
-  <li> 
-  <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning/tree/ac6c1e2995cd0049389f906cf412f52b765985c4/divvy-trip-2020">
-  <img src="Case Study #1 -Divvy-Trip-2020" alt=""> Case Study #1 -Divvy-Trip-2020</a>
-
-  </li>
-</ul>
