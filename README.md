@@ -1,6 +1,5 @@
 # Excel_Data_Cleaning
-<p>🧹 Excel Data Cleaning Repository
-This repository serves as a centralized collection of resources, templates, and best practices for cleaning data using Microsoft Excel. Our goal is to streamline the data preparation process, ensuring that raw data is transformed into a clean, structured, and analysis-ready format. This repository is ideal for data analysts, researchers, and anyone who frequently works with data in Excel.<br>
+<p>🧹This repository serves as a centralized collection of resources, templates, and best practices for cleaning data using Microsoft Excel. Our goal is to streamline the data preparation process, ensuring that raw data is transformed into a clean, structured, and analysis-ready format. This repository is ideal for data analysts, researchers, and anyone who frequently works with data in Excel.<br>
 
 Key Features:<br>
 Templates: Pre-built Excel templates with formulas and conditional formatting to identify common data issues.<br>
