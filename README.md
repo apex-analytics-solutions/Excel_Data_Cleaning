@@ -11,8 +11,8 @@ Case Studies: Real-world examples demonstrating how to tackle specific data clea
 Best Practices: A set of guidelines for maintaining data integrity and efficiency.<br></p>
 
 <p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
-  <a href="www.linkedin.com/in/anees-ur-rehman-7a2245378/">
-  <img src=" Linkedln | Anees Ur Rehman" alt=""> Linkedln | Anees Ur Rehman</a><br>
+<a href="www.linkedin.com/in/anees-ur-rehman-7a2245378/">
+  <img src=" Linkedln | Anees Ur Rehman" alt=""> Linkedln | Anees Ur Rehman</a><br>
 
   Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
   <p>Tools Used🛠️ : Excel SpreadSheet</p>
