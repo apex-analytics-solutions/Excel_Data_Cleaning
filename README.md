@@ -21,7 +21,7 @@ Best Practices: A set of guidelines for maintaining data integrity and efficienc
   <h2>CONTENTS📝</h2>
 <ul>
   <li> 
-  <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning/tree/ac6c1e2995cd0049389f906cf412f52b765985c4/divvy-trip-2020">
+  <a href="#">
   <img src="Case Study #1 -Divvy-Trip-2020" alt=""> Case Study #1 -Divvy-Trip-2020</a>
   </li>
 </ul>
