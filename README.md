@@ -11,7 +11,7 @@ Case Studies: Real-world examples demonstrating how to tackle specific data clea
 Best Practices: A set of guidelines for maintaining data integrity and efficiency.<br></p>
 
 <p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
-  <a href="www.linkedin.com/in/anees-ur-rehman-7a2245378">
+  <a href="#">
   <img src=" Linkedln | Anees Ur Rehman" alt=""> Linkedln | Anees Ur Rehman</a><br>
 
   Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
@@ -20,7 +20,7 @@ Best Practices: A set of guidelines for maintaining data integrity and efficienc
   <h2>CONTENTS📝</h2>
 <ul>
   <li> 
-  <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning/tree/04225f3d5f9b5ed8074be2a38d4200b8a7368be5/Case%20Study%20%231%20-Divvy-Trip-2020">
+  <a href="#">
   <img src="Case Study #1 -Divvy-Trip-2020" alt=""> Case Study #1 -Divvy-Trip-2020</a>
   </li>
 </ul>
